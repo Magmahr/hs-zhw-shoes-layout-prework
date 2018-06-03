@@ -24,4 +24,26 @@
 
 /* Posititoning Classes */
 
+.top {
+  margin-bottom: 12px;
+}
+
+.grass {
+  width: 66%;
+  float: right;
+  margin-left:  0px
+}
+
+.archive {
+  width: 32%;
+  float: right;
+  margin-left: 10px;
+}
+
+.deals {
+  width: 32%;
+  margin-right: 18%;
+  margin-top: 18px;
+  float: right;
+}
 
